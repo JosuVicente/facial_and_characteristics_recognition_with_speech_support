@@ -4,7 +4,7 @@ import io
 import os
 
 #######################
-GOOGLE_CLOUD_SPEECH_CREDENTIALS_PATH = '../files/TFM project-287dc6d9869a.json'
+GOOGLE_CLOUD_SPEECH_CREDENTIALS_PATH = '../files/GoogleCloudKey.json'
 #######################
 
 def transcript_audio(filepath, language, use_cloud):
