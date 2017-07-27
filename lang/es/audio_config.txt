@@ -1,0 +1,2 @@
+GENDER:gender/[GENDER].mp3
+EMOTION:emotion/[GENDER]/[EMOTION].mp3

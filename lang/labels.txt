@@ -1,0 +1,2 @@
+{0: 'angry', 1: 'disgust', 2: 'sad', 3: 'happy', 4: 'sad', 5: 'surprise', 6: 'neutral'}
+{0: 'woman', 1: 'man'}
